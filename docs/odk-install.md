@@ -89,7 +89,7 @@ Hold `Ctrl + x` to quit the text editor. Press `y` to indicate that you want to 
 #### Start ODK Central Software
 To start the server software please execute
 ```
-run docker-compose up -d 
+docker-compose up -d 
 ```
 
 The first time you start it, it will take a while to set itself up. Once you give it a few minutes and you have input control again, you'll want to see whether everything is running correctly. To do so, you may run 
